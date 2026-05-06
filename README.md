@@ -93,7 +93,7 @@ Moto Heart &nbsp;·&nbsp; Navigi &nbsp;·&nbsp; Ship Cheaper &nbsp;·&nbsp; Real
 **Backend**<br/>
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -149,11 +149,11 @@ Moto Heart &nbsp;·&nbsp; Navigi &nbsp;·&nbsp; Ship Cheaper &nbsp;·&nbsp; Real
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliashraftamim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-steel-umber.vercel.app/api?username=aliashraftamim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliashraftamim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-steel-umber.vercel.app/api/top-langs/?username=aliashraftamim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 <br/><br/>
 
